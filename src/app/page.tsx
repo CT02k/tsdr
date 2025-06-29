@@ -121,7 +121,7 @@ export default function Home() {
       </header>
 
       <main className="w-full max-w-2xl mx-auto px-10">
-        <form onSubmit={handleSubmit} className="flex flex-row border border-blue-500 rounded-xl">
+        <form onSubmit={handleSubmit} className="flex flex-row border border-blue-500 rounded-xl justify-between">
           <input
             value={input}
             onChange={(e) => setInput(e.target.value)}
