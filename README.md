@@ -2,6 +2,8 @@
 
 A Next.js application that transforms simple text into ridiculously long, detailed text.
 
+<img src="https://raw.githubusercontent.com/CT02k/tsdr/refs/heads/master/assets/preview.gif" height="400"/>
+
 ## Getting Started
 
 1. Clone the repository
